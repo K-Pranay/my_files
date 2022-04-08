@@ -1,0 +1,45 @@
+COMPILE TIME ERROR
+com/sbcc/dao/SBCCBoard.java:60: error: unexpected type
+	public Map<String,double> findTopPlayerDetails(String playerType)
+	                  ^
+  required: reference
+  found:    double
+com/sbcc/service/SBCCService.java:22: error: cannot find symbol
+	public Map<Stirng,Double> findTopPlayerDetails( String playerType)
+	       ^
+  symbol:   class Map
+  location: class SBCCService
+com/sbcc/service/SBCCService.java:22: error: cannot find symbol
+	public Map<Stirng,Double> findTopPlayerDetails( String playerType)
+	           ^
+  symbol:   class Stirng
+  location: class SBCCService
+com/sbcc/main/UserInterface.java:61: error: incompatible types: int[] cannot be converted to String[]
+		    String arr[] = new int[n];
+		                   ^
+com/sbcc/dao/SBCCBoard.java:20: error: cannot find symbol
+	    SBCCUtility utilize = new SBCCUtility();
+	    ^
+  symbol:   class SBCCUtility
+  location: class SBCCBoard
+com/sbcc/dao/SBCCBoard.java:20: error: cannot find symbol
+	    SBCCUtility utilize = new SBCCUtility();
+	                              ^
+  symbol:   class SBCCUtility
+  location: class SBCCBoard
+com/sbcc/dao/SBCCBoard.java:44: error: array required, but String found
+	                pt = new Batsman(str2[0],str2[1],x,runsScored,str2[x+3],Integer.parseInt(str[x+5]),Integer.parseInt(x+6));
+	                                                                                            ^
+com/sbcc/dao/SBCCBoard.java:44: error: incompatible types: int cannot be converted to String
+	                pt = new Batsman(str2[0],str2[1],x,runsScored,str2[x+3],Integer.parseInt(str[x+5]),Integer.parseInt(x+6));
+	                                                                                                                     ^
+com/sbcc/dao/SBCCBoard.java:49: error: incompatible types: int cannot be converted to String
+	                pt = new Bowler(str2[0],str2[1],x,runsScored,str2[x+3],Integer.parseInt(str2[x+5]),Integer.parseInt(x+6));
+	                                                                                                                     ^
+com/sbcc/dao/SBCCBoard.java:63: error: unexpected type
+	    Map<String,double> mp = new TreeMap<>();
+	               ^
+  required: reference
+  found:    double
+Note: Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+10 errors

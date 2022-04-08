@@ -1,0 +1,16 @@
+analog signals are not possible to store and very difficult to process
+analog image processing is costlier and slow
+  digital image quality depends on
+       spatial resolution
+       intensity resolution
+
+black and white and gray scale image
+b/w->1r0
+grey->8bit resolution
+image formats:
+RGB
+HSV =?
+YCbCr
+YPbPr
+
+Now the file has more content!

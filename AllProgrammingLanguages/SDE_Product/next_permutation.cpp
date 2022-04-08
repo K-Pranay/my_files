@@ -1,0 +1,3 @@
+// directly next_permutation(arr,arr+size)
+
+// method try ....

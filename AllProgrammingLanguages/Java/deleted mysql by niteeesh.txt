@@ -1,0 +1,12 @@
+import java.MySql.*;
+public class sqqll{
+public static void main(String args[])
+{
+Class.forName(com.mysql.jdbc.driver);
+String URL="jdbc:mysql://localhost:3306/aliens";
+String us=
+
+}
+
+
+}

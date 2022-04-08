@@ -1,0 +1,36 @@
+I know 4 Programming languages
+
+//pro tip before compiling c and or cpp turn off real time scanning so that there is fast output 
+
+1. c
+	compile: gcc filename.c
+	run:     a
+	//,/*      */ as comments
+
+2.cpp
+	compile: g++ filename.cpp
+	run:     filename//sometimes fails then use 'a'
+		(or)
+	compile: g++ -o filename filename.cpp
+	run:    filename.exe
+	//,/*      */ as comments
+
+3.java
+	compile: javac filename.java
+	run:	java filename
+	//,/*      */,/**           */ as comments
+
+4.python
+	try typing "python"
+	compile and run:python3 filename.py
+		(or)
+	compile and run: filename.py
+	#as comment
+
+Atom as text editor.
+c and cpp can directly be compiled in my atom package installed.
+when you get access denied error stop the real time scanning of antivirus installed.
+And also python now enable the package "platform-ide-terminal"
+useful at times cmd is also better.
+compiles and run here will be "python filename.py" //bit slower so not that good
+on enabling this package fn+f5 will not run cpp and c code.

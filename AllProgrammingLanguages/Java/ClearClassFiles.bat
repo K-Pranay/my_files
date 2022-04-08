@@ -1,0 +1,19 @@
+cd/
+cd C:\Users\Pranay\OneDrive\Documents\AllProgrammingLanguages\Java
+del *.class
+cd C:\Users\Pranay\OneDrive\Documents\AllProgrammingLanguages\Java\awtframe
+del *.class
+cd C:\Users\Pranay\OneDrive\Documents\AllProgrammingLanguages\Java\ChitSoftware
+del *.class
+cd C:\Users\Pranay\OneDrive\Documents\AllProgrammingLanguages\Java\ForTest
+del *.class
+cd C:\Users\Pranay\OneDrive\Documents\AllProgrammingLanguages\Java\javaByabdulBaari
+del *.class
+cd C:\Users\Pranay\OneDrive\Documents\AllProgrammingLanguages\Java\MiniHack
+del *.class
+cd C:\Users\Pranay\OneDrive\Documents\AllProgrammingLanguages\Java\MouseClick_robot
+del *.class
+cd C:\Users\Pranay\OneDrive\Documents\AllProgrammingLanguages\Java\MyServer
+del *.class
+cd C:\Users\Pranay\OneDrive\Documents\AllProgrammingLanguages\Java\StaticEgs
+del *.class
